@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 @font-face {
   font-family: 'Monocraft';
   src: url('./fonts/Monocraft.otf') format('opentype');
